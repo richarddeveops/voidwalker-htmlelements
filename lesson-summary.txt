@@ -1,0 +1,5 @@
+HTML ELEMENT TAGS
+
+I learnt the difference between container elements and void elements. Container elements hold content and have an opening and closing tag, such as <p>This is text.</p>. Void elements do not hold content and do not need a closing tag, such as <br>, <img>, <hr>, and <input>.
+
+I also practised using headings, lists, forms, tables, semantic elements, and text-formatting elements.
