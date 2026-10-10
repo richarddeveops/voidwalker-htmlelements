@@ -1,5 +1,7 @@
-HTML ELEMENT TAGS
+HTML ELEMENTS
 
-I learnt the difference between container elements and void elements. Container elements hold content and have an opening and closing tag, such as <p>This is text.</p>. Void elements do not hold content and do not need a closing tag, such as <br>, <img>, <hr>, and <input>.
+Most HTML elements have an opening tag, content, and a closing tag, for example <p>This is text.</p>. Void elements have no content and no closing tag; examples include <br>, <img>, <hr>, and <input>.
 
-I also practised using headings, lists, forms, tables, semantic elements, and text-formatting elements.
+Elements can be nested, but they must close in the reverse order in which they opened. Attributes belong in the opening tag and provide extra information, such as an image's src or a link's href.
+
+I practised headings, lists, forms, tables, semantic elements, and text formatting. Choose an element for its meaning, and use CSS when the goal is visual styling.
